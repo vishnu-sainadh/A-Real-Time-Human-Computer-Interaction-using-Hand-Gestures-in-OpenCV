@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV"
+authors:
+  - family-names: Kedarisetty
+    given-names: "Vishnu Sainadh"
+  - family-names: Kukkadapu
+    given-names: Satwik
+  - family-names: Vadde
+    given-names: Ashrith
+  - family-names: Niranjan
+    given-names: "D. K."
+preferred-citation:
+  type: conference-paper
+  title: "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV"
+  authors:
+    - family-names: Kedarisetty
+      given-names: "Vishnu Sainadh"
+    - family-names: Kukkadapu
+      given-names: Satwik
+    - family-names: Vadde
+      given-names: Ashrith
+    - family-names: Niranjan
+      given-names: "D. K."
+  collection-title: "Lecture Notes in Networks and Systems"
+  publisher:
+    name: "Springer Nature Singapore"
+  year: 2023
+  start: 271
+  end: 282
+  doi: "10.1007/978-981-99-3761-5_26"

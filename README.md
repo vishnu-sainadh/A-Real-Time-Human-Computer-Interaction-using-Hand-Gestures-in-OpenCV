@@ -9,6 +9,7 @@ Control your computer with your bare hands. This project turns a standard webcam
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Springer](https://img.shields.io/badge/Published-Springer-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Real-time hand tracking and gesture recognition](assets/demo_mouse_control.gif)
 
@@ -84,10 +85,10 @@ A-Real-Time-Human-Computer-Interaction-using-Hand-Gestures-in-OpenCV/
 
 ## Running the Project
 
-Requires Python and a webcam (Windows recommended for full functionality).
+Requires Python 3.8+ and a webcam (Windows recommended for full functionality).
 
 ```bash
-pip install opencv-python mediapipe numpy cvzone pyautogui autopy pynput screen-brightness-control AppOpener
+pip install -r requirements.txt
 
 python src/main.py
 ```
