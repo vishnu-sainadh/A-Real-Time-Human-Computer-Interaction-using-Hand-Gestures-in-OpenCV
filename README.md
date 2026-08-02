@@ -9,6 +9,7 @@ Control your computer with your bare hands. This project turns a standard webcam
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Springer](https://img.shields.io/badge/Published-Springer-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Real-time hand tracking and gesture recognition](assets/demo_mouse_control.gif)
 
@@ -84,10 +85,10 @@ A-Real-Time-Human-Computer-Interaction-using-Hand-Gestures-in-OpenCV/
 
 ## Running the Project
 
-Requires Python and a webcam (Windows recommended for full functionality).
+Requires Python 3.8+ and a webcam (Windows recommended for full functionality).
 
 ```bash
-pip install opencv-python mediapipe numpy cvzone pyautogui autopy pynput screen-brightness-control AppOpener
+pip install -r requirements.txt
 
 python src/main.py
 ```
@@ -99,9 +100,9 @@ Then:
 
 ## Publication
 
-This work was published in the Springer *Lecture Notes in Networks and Systems* series.
+This work was presented at **ICTIS 2023**, the 7th International Conference on Information and Communication Technology for Intelligent Systems (Ahmedabad, India, 2023), and published by Springer in *IoT with Smart Systems: ICTIS 2023, Volume 2* (Lecture Notes in Networks and Systems, vol. 720).
 
-> Kedarisetty Vishnu Sainadh, Kukkadapu Satwik, Vadde Ashrith, D. K. Niranjan. "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV." *Lecture Notes in Networks and Systems*, Springer Nature Singapore, 2023, pp. 271-282.
+> Kedarisetty Vishnu Sainadh, Kukkadapu Satwik, Vadde Ashrith, D. K. Niranjan. "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV." In: *IoT with Smart Systems: ICTIS 2023, Volume 2*. Lecture Notes in Networks and Systems, vol. 720. Springer Nature Singapore, 2023, pp. 271-282.
 
 🔗 **[Read the paper (Springer, DOI: 10.1007/978-981-99-3761-5_26)](https://doi.org/10.1007/978-981-99-3761-5_26)**
 
