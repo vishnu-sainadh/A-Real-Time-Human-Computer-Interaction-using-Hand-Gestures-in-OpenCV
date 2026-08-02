@@ -100,9 +100,9 @@ Then:
 
 ## Publication
 
-This work was published in the Springer *Lecture Notes in Networks and Systems* series.
+This work was presented at **ICTIS 2023**, the 7th International Conference on Information and Communication Technology for Intelligent Systems (Ahmedabad, India, 2023), and published by Springer in *IoT with Smart Systems: ICTIS 2023, Volume 2* (Lecture Notes in Networks and Systems, vol. 720).
 
-> Kedarisetty Vishnu Sainadh, Kukkadapu Satwik, Vadde Ashrith, D. K. Niranjan. "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV." *Lecture Notes in Networks and Systems*, Springer Nature Singapore, 2023, pp. 271-282.
+> Kedarisetty Vishnu Sainadh, Kukkadapu Satwik, Vadde Ashrith, D. K. Niranjan. "A Real-Time Human Computer Interaction Using Hand Gestures in OpenCV." In: *IoT with Smart Systems: ICTIS 2023, Volume 2*. Lecture Notes in Networks and Systems, vol. 720. Springer Nature Singapore, 2023, pp. 271-282.
 
 🔗 **[Read the paper (Springer, DOI: 10.1007/978-981-99-3761-5_26)](https://doi.org/10.1007/978-981-99-3761-5_26)**
 

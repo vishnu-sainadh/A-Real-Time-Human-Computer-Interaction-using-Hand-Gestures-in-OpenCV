@@ -22,7 +22,12 @@ preferred-citation:
       given-names: Ashrith
     - family-names: Niranjan
       given-names: "D. K."
-  collection-title: "Lecture Notes in Networks and Systems"
+  collection-title: "IoT with Smart Systems: ICTIS 2023, Volume 2 (Lecture Notes in Networks and Systems, vol. 720)"
+  conference:
+    name: "7th International Conference on Information and Communication Technology for Intelligent Systems (ICTIS 2023)"
+    city: "Ahmedabad"
+    country: "IN"
+    year: 2023
   publisher:
     name: "Springer Nature Singapore"
   year: 2023
