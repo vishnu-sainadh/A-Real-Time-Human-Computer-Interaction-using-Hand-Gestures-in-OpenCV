@@ -12,7 +12,7 @@ Control your computer with your bare hands. This project turns a standard webcam
 
 ![Real-time hand tracking and gesture recognition](assets/demo_mouse_control.gif)
 
-> Faces in the demo recordings are blurred for privacy. The overlays (hand skeleton, bounding box, gesture label, FPS) are the live output of the application.
+> The overlays (hand skeleton, bounding box, gesture label, FPS) are the live output of the application.
 
 ## Overview
 
@@ -40,6 +40,8 @@ The system runs in two modes. Show **two open palms** to toggle between them.
 **Keyboard mode**
 
 An on-screen keyboard is drawn over the video feed. Hover your index finger over a key and pinch your index and middle fingers together to press it, with support for Caps Lock, Space, Enter, and Backspace.
+
+![On-screen keyboard controlled by hand gestures](assets/demo_keyboard.gif)
 
 ## How It Works
 
